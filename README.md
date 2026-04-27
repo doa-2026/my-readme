@@ -1,5 +1,6 @@
 📂 ####Stroke Prediction
 
+----------------------------------------------------------------------------------------------------------------------
  📌 Overview
  
 This project explores a stroke detector  dataset using machine learning models to classify whether (stroke=1 ) or not (0).
