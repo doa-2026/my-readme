@@ -15,6 +15,10 @@ Comparing  many classification  model to choose best model  using evaluation met
 
 -Choose the perfect model accourding to classification metrics
 
+  📝Data    
+  the dataset contains  Features like age, gender, hypertension	,heart_disease	
+ever_married, work_type	,Residence_type	 ,avg_glucose_level ,bmi, (Body Mass Index) smoking_status
+
  ⚙️ Preprocessing
 
 -Removed redundant columns:Unnamed: 0, Unnamed: 1
