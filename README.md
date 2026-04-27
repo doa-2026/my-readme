@@ -87,8 +87,8 @@ The Logistic Regression model using l2 Regularization  achieved  the best perfor
 
 📜 Tools and Library
 
-Languages: Python 
-Libraries: Pandas, Matplotlib, Scikit-learn
+Languages: Python /
+Libraries: Pandas, Matplotlib, Scikit-learn /
 Tools: Google colab 
 
 
